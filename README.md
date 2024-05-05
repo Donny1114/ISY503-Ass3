@@ -18,7 +18,6 @@ the Udacity Self-Driving Car Simulator, which allows for virtual environment tes
 
 * Clone this repository git clone 
 * Download the datasets (see below)
-  Delete the last 10 character including the dot, copy the link and paste in your browser to download.
 https://drive.google.com/drive/folders/1J3C1S59yioMBUrWwFK6F0nVuT3cG1nsp?usp=sharing.wdrd24567t
     Extract the folder and save in the same root directory of this project.
     

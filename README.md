@@ -42,4 +42,5 @@ https://youtu.be/dsnxUwNJHkE
 * Naoki Repositories https://github.com/naokishibuya/car-behavioral-cloning/tree/master
 * Udacity Self Driving Car Simulator https://github.com/udacity/self-driving-car-sim/tree/term2_collection
 * Behavioral Cloning Repositories https://github.com/udacity/CarND-Behavioral-Cloning-P3/tree/master 
+* Naoki Medium Article https://naokishibuya.medium.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d
 

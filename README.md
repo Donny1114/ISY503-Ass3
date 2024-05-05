@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1J3C1S59yioMBUrWwFK6F0nVuT3cG1nsp?usp=sha
 
     python model.py --sources TRACK1-TRAINING --train-on-autonomous-center
 
-##### *Driving
+##### Driving
 
     python drive.py --file model.h5
 

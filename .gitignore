@@ -4,6 +4,7 @@ model-*.h5
 TRACK1-TRAINING/
 __pycache__/
 ISY*.mp4
+debug_*
 
 
 

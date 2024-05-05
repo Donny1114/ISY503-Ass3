@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+keras==2.15.0
+flask==3.0.3
+eventlet==0.33.3
+numpy==1.26.4
+pandas==2.2.2
+Pillow==9.5.0
+python-socketio==4.2.1
+matplotlib==3.8.2
+
